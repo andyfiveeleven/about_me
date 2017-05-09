@@ -1,0 +1,52 @@
+* {
+  margin-left: 10px;
+}
+body{
+  background-color: #ffffff;
+  font-family: georgia;
+}
+
+header{
+  background-color: #777;
+  padding-bottom: 0px;
+  margin-bottom: 10px;
+
+}
+h1{
+  font-size: 50px;
+  color: #82cfff;
+}
+
+header p {
+  font-size: 30px;
+  color: #fff
+}
+
+main {
+
+}
+
+.profilePhoto {
+  width: 300px;
+  height: 300px;
+}
+
+main h2 {
+  font-size: 25px;
+
+}
+
+main p {
+  text-indent: 15px;
+  font-size: 15px;
+  color: #40506b;
+}
+
+footer {
+  height: 20px;
+  font-size: 15px;
+  text-align: center;
+  margin-top: 20px;
+  padding: 20px;
+  border-color: #000000
+}
